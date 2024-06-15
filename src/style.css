@@ -1,11 +1,12 @@
 body {
     /*mudar o tipo da fonte*/
-    
-    color: rgba(0,0,0,.5);
+    font-family: Arial, Helvetica, sans-serif;
+}
 
+.menu-secundario {
+    color: rgba(0,0,0,.5);
     /*decoração do texto. Ex: sublinhado*/
     text-decoration: none;
-
     /*transformar o texto. Ex: uppercase -> deixa maiusculo */
     text-transform: uppercase;
     /*mudar o tamanho da fonte */
